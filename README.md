@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new mobile technologies and focusing on clean code & architecture.
 - 🎓 &nbsp; Graduated in Analysis and System Development.
-- 💼 &nbsp; Working as a Mobile Consultant Developer in Thoughtworks.
+- 💼 &nbsp; Working as an Android Engineer for ArcTouch.
 - 🌱 &nbsp; Learning more about Swift, Flutter and React Native.
 - :green_heart:&nbsp; I'm passionate about Android and AOSP, currently missing working with embedded software.
 
